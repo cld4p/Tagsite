@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "entries": [
+      {
+        "threshold": 10,
+        "model": {
+          "type": "model",
+          "model": "site:item/strength_potion"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "model",
+      "model": "item/red_dye"
+    }
+  }
+}

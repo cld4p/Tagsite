@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "site:blight"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "site:blight"
+      }
+    ]
+  }
+}

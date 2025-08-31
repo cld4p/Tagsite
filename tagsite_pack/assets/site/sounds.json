@@ -1,0 +1,168 @@
+{
+  "music.lobby": {
+    "sounds": [ {"name":"site:music/lobby1","stream":true}, {"name":"site:music/lobby2","stream":true}, 
+    {"name":"site:music/lobby3","stream":true}, {"name":"site:music/lobby4","stream":true}]
+
+  },
+  "music.game_normal_jungle":{
+    "sounds": [ {"name":"site:music/game_normal_jungle","stream":true}]
+  },
+  "music.game_fast_jungle":{
+    "sounds": [ {"name":"site:music/game_fast_jungle","stream":true}]
+  },
+  "music.game_normal_cherry":{
+    "sounds": [ {"name":"site:music/game_normal_cherry","stream":true}]
+  },
+  "music.game_fast_cherry":{
+    "sounds": [ {"name":"site:music/game_fast_cherry","stream":true}]
+  },
+
+
+
+
+
+
+
+  "fx.startup":{
+    "sounds": [ {"name":"site:fx/startup"}]
+  },
+  "fx.welcome":{
+    "sounds": [ {"name":"site:fx/welcome"}]
+  },
+  "fx.makersmark":{
+    "sounds": [ {"name":"site:fx/makersmark"}]
+  },
+  "fx.chat_tick":{
+    "sounds": [ {"name":"site:fx/chat_tick"}]
+  },
+  "fx.incendiary_cast":{
+    "sounds": [ {"name":"site:fx/incendiary_cast"}]
+  },
+  "fx.incendiary_ambient":{
+    "sounds": [ {"name":"site:fx/incendiary_ambient"}]
+  },
+  "fx.clock_tick":{
+    "sounds": [ {"name":"site:fx/clock_tick"}]
+  },
+  "fx.ding":{
+    "sounds": [ {"name":"site:fx/ding"}]
+  },
+  "fx.flash":{
+    "sounds": [ {"name":"site:fx/flashbang"}]
+  },
+  "fx.radar_reveal":{
+    "sounds": [ {"name":"site:fx/radar_reveal"}]
+  },
+  "fx.ies_activate":{
+    "sounds": [ {"name":"site:fx/ies_activate"}]
+  },
+  "fx.ies_deploy":{
+    "sounds": [ {"name":"site:fx/ies_deploy"}]
+  },
+  "fx.ies_wind_up":{
+    "sounds": [ {"name":"site:fx/ies_wind_up"}]
+  },
+  "fx.remote_activate":{
+    "sounds": [ {"name":"site:fx/remote_activate"}]
+  },
+  "fx.remote_explosion":{
+    "sounds": [ {"name":"site:fx/remote_explosion"}]
+  },
+  "fx.remote_explosion_far":{
+    "sounds": [ {"name":"site:fx/remote_explosion_far"}]
+  },
+  "fx.remote_explosive_deploy":{
+    "sounds": [ {"name":"site:fx/remote_explosive_deploy"}]
+  },
+  "fx.shop_buy":{
+    "sounds": [ {"name":"site:fx/shop_buy"}]
+  },
+  "fx.shop_deny":{
+    "sounds": [ {"name":"site:fx/shop_deny"}]
+  },
+  "fx.smoke_bomb_smoking":{
+    "sounds": [ {"name":"site:fx/smoke_bomb_smoking"}]
+  },
+  "fx.stim_focus":{
+    "sounds": [ {"name":"site:fx/stim_focus"}]
+  },
+  "fx.stim_off":{
+    "sounds": [ {"name":"site:fx/stim_off"}]
+  },
+  "fx.gold_sparkle":{
+    "sounds": [ {"name":"site:fx/gold_sparkle"}]
+  },
+  "fx.kill":{
+    "sounds": [ {"name":"site:fx/kill1"},{"name":"site:fx/kill2"}]
+  },
+  "fx.equip":{
+    "sounds": [ {"name":"site:fx/equip"}]
+  },
+  "fx.1kill":{
+    "sounds": [ {"name":"site:fx/1kill"}]
+  },
+  "fx.2kill":{
+    "sounds": [ {"name":"site:fx/2kill"}]
+  },
+  "fx.3kill":{
+    "sounds": [ {"name":"site:fx/3kill"}]
+  },
+  "fx.4kill":{
+    "sounds": [ {"name":"site:fx/4kill"}]
+  },
+  "fx.5kill":{
+    "sounds": [ {"name":"site:fx/5kill"}]
+  },
+  "fx.charge_detonate":{
+    "sounds": [ {"name":"site:fx/charge_detonate"}]
+  },
+  "fx.charge_prime":{
+    "sounds": [ {"name":"site:fx/charge_prime"}]
+  },
+  "fx.round_over":{
+    "sounds": [ {"name":"site:fx/round_over"}]
+  },
+  "fx.vote": {
+    "sounds": [ {"name":"site:fx/vote"}]
+  },
+  "fx.charge_spawn":{
+    "sounds": [ {"name":"site:fx/charge_spawn"}]
+  },
+  "fx.swoosh":{
+    "sounds": [ {"name":"site:fx/swoosh"}]
+  },
+  "fx.match_start":{
+    "sounds":[{"name":"site:fx/match_start"}]
+  },
+  "fx.super_jump":{
+    "sounds": [{"name":"site:fx/super_jump"}]
+  },
+  "fx.charge_rise":{
+    "sounds": [{"name":"site:fx/charge_rise"}]
+  },
+  "fx.sprint":{
+    "sounds": [{"name":"site:fx/sprint"}]
+  },
+  "fx.victory":{
+    "sounds": [{"name":"site:fx/victory1","stream": true},{"name":"site:fx/victory2","stream": true},
+              {"name":"site:fx/victory3","stream": true}]
+  },
+  "fx.defeat":{
+    "sounds": [{"name":"site:fx/defeat"}]
+  },
+  "fx.punch":{
+    "sounds": [{"name":"site:fx/punch1","stream": true},{"name":"site:fx/punch2","stream": true}]
+  },
+  "fx.gunshot":{
+    "sounds": [{"name":"site:fx/gunshot"}]
+  },
+  "fx.shop_open":{
+    "sounds": [{"name":"site:fx/shop_open"}]
+  },
+    "fx.slice":{
+    "sounds": [{"name":"site:fx/slice1","stream": true},{"name":"site:fx/slice2","stream": true}]
+  }
+}
+
+
+

@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "site:beam"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "site:beam"
+      }
+    ]
+  }
+}
