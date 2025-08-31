@@ -1,0 +1,1 @@
+give @s snowball[custom_name=[{"text":"Grenade","italic":false,"color":"dark_green"}],lore=[[{"text":"Upon contact, explodes and kills","italic":false,"color":"gold"}],[{"text":"maybe..","italic":false,"color":"gold"}]],item_model="site:grenade"] 9

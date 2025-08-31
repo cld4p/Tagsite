@@ -1,0 +1,1 @@
+give @s snowball[custom_data={beam_radar:1b},item_model="site:radar_torpedo",custom_name=[{"text":"Radar Torpedo","italic":false,"color":"yellow"}],lore=[[{"text":"Upon contact, reveals all enemy players","italic":false,"color":"gold"}],[{"text":"in a radius","italic":false,"color":"gold"}]]] 9

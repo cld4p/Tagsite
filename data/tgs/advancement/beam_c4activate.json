@@ -1,0 +1,21 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:using_item",
+        "conditions": {
+            "player": {
+                "team":"Beam"
+            },
+          "item": {
+            "components": {
+              "minecraft:custom_data": "{c4a:1b}"
+            }
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "tgs:items/functions/remote_explosive/beam_activate"
+    }
+  }
+  

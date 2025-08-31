@@ -1,0 +1,1 @@
+give @s splash_potion[potion_contents={custom_color:7066289,custom_effects:[{id:speed,duration:300,amplifier:1},{id:jump_boost,duration:300,amplifier:3}]},custom_name=[{"text":"Velocity Potion","italic":false,"color":"green"}],lore=[[{"text":"Increases speed, jump and knockback","italic":false,"color":"gold"}]]] 7

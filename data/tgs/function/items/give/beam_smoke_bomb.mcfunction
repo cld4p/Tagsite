@@ -1,0 +1,1 @@
+give @s snowball[custom_data={beam_smoke_bomb:1b},item_model="site:smoke_bomb",custom_name=[{"text":"Smoke Bomb","italic":false,"color":"dark_gray"}],lore=[[{"text":"Creates a volley of smoke that slows","italic":false,"color":"gold"}],[{"text":"enemies","italic":false,"color":"gold"}]]] 6

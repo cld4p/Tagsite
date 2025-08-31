@@ -1,0 +1,1 @@
+give @s wind_charge[item_model="site:wind_flare",custom_name=[{"text":"Wind Flare","italic":false,"color":"gray"}],lore=[[{"text":"A short time after casting, upon contact","italic":false,"color":"gold"}],[{"text":"flashes all players in a radius","italic":false,"color":"gold"}]]] 13

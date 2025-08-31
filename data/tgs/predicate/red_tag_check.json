@@ -1,0 +1,15 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "effects": {},
+    "slots": {
+      "container.*": {
+        "items": "minecraft:snowball",
+        "components": {
+          "minecraft:item_model": "site:red_tag_charge"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+    "values": [
+    "air",
+    "cave_air",
+    "void_air",
+    "flower_pot",
+    "water",
+    "snow",
+    "chain",
+    "iron_bars",
+    "#flowers",
+    "short_grass",
+    "tall_grass"
+
+]
+}

@@ -1,0 +1,1 @@
+give @s echo_shard[max_stack_size=1,custom_name=[{"text":"Invisibility Shard","italic":false,"color":"aqua"}],lore=[[{"text":"Turns you invisible and faster","italic":false,"color":"gold"}]],food={nutrition:0,saturation:0,can_always_eat:1b},consumable={consume_seconds:98123},custom_data={invis:1b},item_model="site:invis"] 6

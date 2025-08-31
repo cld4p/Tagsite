@@ -1,0 +1,14 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": "minecraft:snowball",
+        "components": {
+          "minecraft:item_model": "site:blue_tag_charge"
+        }
+      }
+    }
+  }
+}

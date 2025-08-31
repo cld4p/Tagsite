@@ -1,0 +1,1 @@
+give @a snowball[custom_name=[{"text":"Incendiary","italic":false,"color":"dark_red"}],lore=[[{"text":"Upon contact bursts into a radius","italic":false,"color":"gold"}],[{"text":"of flames","italic":false,"color":"gold"}]],item_model="site:incendiary"] 7

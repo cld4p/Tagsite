@@ -1,0 +1,1 @@
+give @s emerald[custom_name=[{"text":"Item Token","italic":false,"bold":true,"obfuscated":false,"underlined":false,"strikethrough":false,"color":"dark_green"}],lore=[[{"text":"Use this to buy 3 special items","italic":false,"bold": false,"obfuscated": false,"strikethrough": false,"underlined": false,"color":"dark_gray"}]]] 3
